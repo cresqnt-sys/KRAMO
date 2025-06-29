@@ -1,6 +1,6 @@
 # KRAMO
 
-**K**eep **R**oblox **A**ccount **M**anager & **O**perational
+**K**eep **R**oblox **A**ccount **M**anager **O**perational
 
 
 
