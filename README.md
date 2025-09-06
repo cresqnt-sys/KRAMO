@@ -1,3 +1,6 @@
+> [!WARNING] 
+> This repository has been archived in favor of [JARAM](https://github.com/cresqnt-sys/JARAM)
+
 # KRAMO
 
 **K**eep **R**oblox **A**ccount **M**anager **O**perational
